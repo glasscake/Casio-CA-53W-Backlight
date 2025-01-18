@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|140521039|87868000|92197b6d-8e11-4071-a8ca-c6f557efdea0|a4f78f4d-8459-4004-96c8-ef1485bac767",
+        "clearance|142595372|87868000|91550f7c-7619-4435-a616-a8f4a4f59dbb|556b6d98-3846-4e14-b964-5bc410695fe1",
+        "clearance|144669705|87868000|67e67eb4-cdc9-44d0-bdad-cfe5cc0525d2|4a4be5fc-6617-4f26-b13d-fae3ab7c96a4",
+        "clearance|146744039|87868000|d4c0b9ad-e86f-4354-82e2-3444eda68d17|7acee229-d014-4c4a-86c6-9a01adbc65bd"
+      ],
       "meta": {
         "version": 2
       },
@@ -479,7 +484,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Out For Boards/Rev A/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
