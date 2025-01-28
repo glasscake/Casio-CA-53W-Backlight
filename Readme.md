@@ -6,7 +6,7 @@
   <img src=pictures/Demo2.JPEG width="400" /> 
 </p>
 
-<div>
+<div align="center">
 <img src=pictures/Installed%20Leds.JPEG width="500">
 </div>
 
