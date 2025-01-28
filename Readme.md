@@ -10,6 +10,6 @@ This is a PCB that adds backlight functonality to Casio-CA-53W style watches. It
 ## Copyright
 Copyright 2025 NuE All rights reserved
 
-Private usage of this project by an individual with no intention to resell or distribute at profit the finished PCB, preassembled PCB, design files, or any item derived from this project is completly allowed.
+Private usage of this project by an individual with no intention to resell or distribute at profit the finished PCB, preassembled PCB, raw PCB, design files, or any item derived from this project is completly allowed.
 
 At the moment this project is not open source. I am trying to figure out a license type that would allow contribution and private use but disallow an individual or company the ability to resell the componets, finished PCB, or design.
