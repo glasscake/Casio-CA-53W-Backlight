@@ -6,9 +6,12 @@
   <img src=pictures/Demo2.JPEG height="300" /> 
 </p>
 
-<div align="center">
-<img src=pictures/Installed%20Leds.JPEG width="500">
-</div>
+<p float="middle">
+  <img src=pictures/Installed%20Leds.JPEG height="300" />
+  <img src=pictures/demo.gif height="300" />
+  <img src=pictures/demo%20dark.gif height="300" />
+</p>
+
 
 ## Description
 This is a PCB that adds backlight functonality to Casio-CA-53W style watches. It could potentially work with other Casio watches as well.
