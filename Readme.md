@@ -8,8 +8,8 @@
 
 <p float="middle">
   <img src=pictures/Installed%20Leds.JPEG height="300" />
-  <img src=pictures/demo.gif height="300" />
-  <img src=pictures/demo%20dark.gif height="300" />
+  <img src=pictures/demo.GIF height="300" />
+  <img src=pictures/demo%20dark.GIF height="300" />
 </p>
 
 
