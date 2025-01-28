@@ -1,13 +1,13 @@
 # Casio-CA-53W Backlight Modification PCB
 
 <p float="middle">
-  <img src=pictures/Demo.JPEG width="100" />
-  <img src=pictures/Demo2.JPEG width="100" /> 
-  <img src=pictures/installed.JPEG width="100" />
+  <img src=pictures/Demo.JPEG width="200" />
+  <img src=pictures/Demo2.JPEG width="200" /> 
+  <img src=pictures/Installed.JPEG width="200" />
 </p>
 
 <div>
-<img src=pictures/original%pcb.JPEG width="100">
+<img src=pictures/Installed%Leds.JPEG width="100">
 </div>
 
 ## Description
