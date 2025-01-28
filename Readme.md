@@ -2,12 +2,12 @@
 
 <p float="middle">
   <img src=pictures/Demo.JPEG width="200" />
-  <img src=pictures/Demo2.JPEG width="200" /> 
   <img src=pictures/Installed.JPEG width="200" />
+  <img src=pictures/Demo2.JPEG width="400" /> 
 </p>
 
 <div>
-<img src=pictures/Installed%Leds.JPEG width="100">
+<img src=pictures/Installed%20Leds.JPEG width="500">
 </div>
 
 ## Description
